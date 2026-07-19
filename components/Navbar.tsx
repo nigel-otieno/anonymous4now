@@ -20,7 +20,7 @@ return(
 <div className="container">
 
 
-<div className="navbar-brand">
+<div className="navbar-brand" style={{ color: 'red' }}>
 ANONYMOUS 4 NOW
 </div>
 
